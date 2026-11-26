@@ -3,8 +3,8 @@
 # DATOS DEL TRABAJO
 # Lesly Yulieth Piragauta Patiño
 # Fundamentos de programación
-# Fase 2 - Variables, constantes y Estructuras de control
-# Ejercicio 3
+# Fase 5 - Evaluación Final POA
+# Ejercicio 5
 
 
 # Matriz con las horas trabajadas durante la semana
