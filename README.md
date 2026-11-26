@@ -49,4 +49,23 @@ for recurso in matriz_horas:
     print("Total de horas:", total)
     print("Clasificación:", jornada)
     print("--------------------------------")
-
+    
+# Salida del ejercicio
+REPORTE DE HORAS SEMANALES
+--------------------------------
+Nombre: Sandra
+Total de horas: 40
+Clasificación: Horario estándar
+--------------------------------
+Nombre: Mario
+Total de horas: 42
+Clasificación: Sobretiempo
+--------------------------------
+Nombre: Alexandra
+Total de horas: 38
+Clasificación: Horario estándar
+--------------------------------
+Nombre: Willian
+Total de horas: 44
+Clasificación: Sobretiempo
+--------------------------------
